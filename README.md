@@ -1,5 +1,7 @@
 # Face Detection Using OpenCV
 
+#### Haar-Cascade Data (OpenCV)
+- https://github.com/opencv/opencv/tree/master/data/haarcascades
 ### Single Face Detect from locally saved photo
 ```python
 def detect_face(self):
